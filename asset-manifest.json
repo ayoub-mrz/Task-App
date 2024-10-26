@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/Task-App/static/css/main.ec5371f4.css",
-    "main.js": "/Task-App/static/js/main.ca7bffef.js",
+    "main.css": "/Task-App/static/css/main.a644909c.css",
+    "main.js": "/Task-App/static/js/main.2b39611d.js",
+    "static/media/BG2.png": "/Task-App/static/media/BG2.6655d98e9772196df498.png",
+    "static/media/tasksImg.png": "/Task-App/static/media/tasksImg.ce14e51ae027fc1dfad2.png",
     "static/media/delete.mp3": "/Task-App/static/media/delete.00a1a69382c3f118cf49.mp3",
+    "static/media/BG1.png": "/Task-App/static/media/BG1.2c2740da6e070d13699a.png",
     "static/media/check.mp3": "/Task-App/static/media/check.30c868fd17522274b920.mp3",
     "static/media/check.png": "/Task-App/static/media/check.cc49e506dba29b1e8907.png",
     "static/media/uncheck.mp3": "/Task-App/static/media/uncheck.e5962b2bc47fdca84e2d.mp3",
     "static/media/delete.webp": "/Task-App/static/media/delete.8e47b5f496ab98a885fe.webp",
     "index.html": "/Task-App/index.html",
     "static/media/ellipsis-vertical-outline.svg": "/Task-App/static/media/ellipsis-vertical-outline.10142f19ab3a29829b5212c51262b565.svg",
-    "main.ec5371f4.css.map": "/Task-App/static/css/main.ec5371f4.css.map",
-    "main.ca7bffef.js.map": "/Task-App/static/js/main.ca7bffef.js.map"
+    "main.a644909c.css.map": "/Task-App/static/css/main.a644909c.css.map",
+    "main.2b39611d.js.map": "/Task-App/static/js/main.2b39611d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec5371f4.css",
-    "static/js/main.ca7bffef.js"
+    "static/css/main.a644909c.css",
+    "static/js/main.2b39611d.js"
   ]
 }
